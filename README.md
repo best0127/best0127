@@ -28,15 +28,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=best0127&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=best0127&show_icons=true&theme=tokyonight&hide_border=true&count_all=true&hide=rank,prs_merged,prs_merged_percentage" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=best0127&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="60%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=best0127&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=best0127&show_icons=true&theme=dracula&hide_border=true&count_all=true&hide=rank,prs_merged,prs_merged_percentage" alt="GitHub Streak" width="60%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=best0127&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="60%" />
 
 </div>
 
@@ -54,6 +58,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=best0127&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=best0127&label=PROFILE%20VIEWS&color=7289da&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
 
 </div>
