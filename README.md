@@ -54,10 +54,4 @@
 
 </div>
 
----
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=best0127&label=PROFILE%20VIEWS&color=7289da&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
-
-</div>
