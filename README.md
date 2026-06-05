@@ -35,15 +35,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-mu-ten.vercel.app/api?username=best0127&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=best0127&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=best0127&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=best0127&show_icons=true&theme=tokyonight&hide_border=true&count_all=true&hide=["rank","prs_merged","prs_merged_percentage"]" alt="GitHub Streak" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats-mu-ten.vercel.app/api/top-langs/?username=best0127&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=best0127&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
 
 </div>
 
