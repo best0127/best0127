@@ -1,10 +1,3 @@
-<div align="center">
-
-<!-- 动态打字效果 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3730A3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+best0127;Python+%2F+Java+%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8C%E4%B8%93%E6%B3%A8%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B" alt="Typing SVG" />
-
-</div>
-
 ---
 
 ## 🧑‍💻 关于我
@@ -53,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=best0127&theme=tokyonight&hide_border=true" alt="Activity Graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=best0127&theme=midnight-blue&hide_border=true" alt="Activity Graph" width="90%" />
 
 </div>
 
