@@ -20,17 +20,11 @@
 
 <div align="center">
 
-<!-- Python -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<!-- Java -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<!-- Git -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<!-- GitHub -->
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<!-- Linux -->
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<!-- Windows -->
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 
 </div>
@@ -41,38 +35,25 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=best0127&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=best0127&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<img src="https://streak-stats.demolab.com?user=best0127&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
 </div>
 
 <div align="center">
 
-<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=best0127&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
 
 </div>
 
 ---
 
-## 🏆 GitHub 贡献
+## 📈 贡献热力图
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-contributions.vercel.app/api/v1/best0127)
-
-</div>
-
----
-
-## 🐍 贪吃蛇贡献图
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/best0127/best0127/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=best0127&theme=tokyonight&hide_border=true" alt="Activity Graph" width="90%" />
 
 </div>
 
