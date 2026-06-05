@@ -37,7 +37,7 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=best0127&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=best0127&show_icons=true&theme=tokyonight&hide_border=true&count_all=true&hide=["rank","prs_merged","prs_merged_percentage"]" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=best0127&show_icons=true&theme=tokyonight&hide_border=true&count_all=true&hide=rank,prs_merged,prs_merged_percentage" alt="GitHub Streak" width="48%" />
 
 </div>
 
