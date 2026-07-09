@@ -6,11 +6,19 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=best0127&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="85%" alt="Trophy" />
+<img src="https://komarev.com/ghpvc/?username=best0127&style=for-the-badge&color=F7789E" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Focus-Reverse%20Engineering-FF6B9D?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Status-Coding%20%F0%9F%92%BB-7C3AED?style=for-the-badge" alt="Status" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=best0127&style=for-the-badge&color=F7789E" alt="Profile Views" />
+<!-- Category badges -->
+<img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/OS-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
