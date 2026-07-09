@@ -1,11 +1,18 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7789E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+best0127;%F0%9F%94%8D+Reverse+Engineering+Lover;%F0%9F%90%8D+Python+Developer;%F0%9F%92%BB+Coding+is+my+passion" alt="Typing SVG" />
+</div>
+
 ---
 
-## 🧑‍💻 关于我
+<div align="center">
 
-- 🔍 **逆向工程爱好者** - 喜欢分析和理解底层系统
-- 🐍 **Python 开发者** - 自动化脚本、数据分析、工具开发
-- ☕ **Java 开发者** - 企业级应用开发
-- 💻 **编程是爱好也是工作** - 享受解决问题的过程
+<img src="https://github-profile-trophy.vercel.app/?username=best0127&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="85%" alt="Trophy" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=best0127&style=for-the-badge&color=F7789E" alt="Profile Views" />
+
+</div>
 
 ---
 
@@ -46,12 +53,20 @@
 
 ---
 
-## 📈 贡献热力图
+## 🎲 3D 贡献立方体
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=best0127&theme=dracula&hide_border=true" alt="Activity Graph" width="90%" />
+<img src="https://raw.githubusercontent.com/best0127/best0127/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" width="90%" />
 
 </div>
 
+---
 
+## 🐍 贪吃蛇贡献图
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/best0127/best0127/output/snake.svg" alt="Snake" width="100%" />
+
+</div>
