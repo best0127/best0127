@@ -61,11 +61,11 @@
 
 ---
 
-## 🎲 3D 贡献立方体
+## 📈 贡献活动图
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/best0127/best0127/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=best0127&theme=synthwave-84&hide_border=true" alt="Activity Graph" width="90%" />
 
 </div>
 
