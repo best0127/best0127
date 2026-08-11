@@ -39,28 +39,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=best0127&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="60%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=best0127&show_icons=true&theme=dracula&hide_border=true&count_all=true&hide=rank,prs_merged,prs_merged_percentage" alt="GitHub Streak" width="60%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=best0127&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="60%" />
-
-</div>
-
----
-
 ## 📈 贡献活动图
 
 <div align="center">
