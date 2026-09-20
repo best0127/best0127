@@ -103,6 +103,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12&height=90&section=footer&text=%E2%9C%84%20Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" alt="Footer wave" width="100%" />
+<img src="assets/footer-wave.svg" alt="Thanks for visiting" width="100%" />
 
 </div>

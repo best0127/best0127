@@ -1,0 +1,22 @@
+<svg viewBox="0 0 854 120" width="854" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="band" x1="0" y1="0" x2="854" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#16161e"/>
+      <stop offset="0.5" stop-color="#2d1b46"/>
+      <stop offset="1" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="854" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff79c6"/>
+      <stop offset="0.5" stop-color="#bd93f9"/>
+      <stop offset="1" stop-color="#ff79c6"/>
+    </linearGradient>
+  </defs>
+  <!-- dark wave band: text always sits on it, legible in both GitHub themes -->
+  <path d="M0 26 Q106 2 213 20 T427 24 T640 18 T854 24 L854 120 L0 120 Z" fill="url(#band)"/>
+  <!-- neon crest -->
+  <path d="M0 26 Q106 2 213 20 T427 24 T640 18 T854 24" fill="none" stroke="url(#neon)" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- glow echo -->
+  <path d="M0 26 Q106 2 213 20 T427 24 T640 18 T854 24" fill="none" stroke="url(#neon)" stroke-width="6" stroke-linecap="round" opacity="0.18"/>
+  <text x="427" y="66" text-anchor="middle" font-family="Consolas,'Fira Code',monospace" font-size="22" font-weight="700" fill="#f8f8f2">Thanks for visiting</text>
+  <text x="427" y="94" text-anchor="middle" font-family="Consolas,'Fira Code',monospace" font-size="14" fill="#bd93f9">best0127 &#183; Everything can be reversed.</text>
+</svg>
