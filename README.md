@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=best0127&style=flat-square&color=F7789E&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=best0127.best0127&left_text=PROFILE%20VIEWS&left_color=%231a1b26&right_color=%23F7789E" alt="Profile views" />
 
 </div>
 
