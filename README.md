@@ -81,16 +81,6 @@
 
 ---
 
-## 🔥 连续贡献
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=best0127&theme=synthwave&hide_border=true&background=1a1b26&stroke=44475a&ring=FF79C6&fire=F7789E&currStreakLabel=BD93F9" alt="GitHub contribution streak" width="92%" />
-
-</div>
-
----
-
 ## 🐍 Snake
 
 <picture>
